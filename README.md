@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## eGiving Collaboration
 
-You can use the [editor on GitHub](https://github.com/AdventistTechnology/eGiving/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+eGiving has the potential to be a global tool for the purpose of collecting tithes nd offerigns from mebers of the Seventh-day Adventiust church.  This document describes how various church entities can partner with this project to create a centralised giving platform.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Open Source
 
-### Markdown
+The source code will be developed in partnership, using an open source model.  Participants will be able to add features and assist with architectural changes based on discussion and consultation with the core team making final decisions. The source code is stored in a public GitHub Repository and is essentially open source.  Pull request will be accepted after review by the Core Team and will be subject to the review process outlined below.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An open source project requires a spirit of commitment and giving to be successful.  All parties must give to the project freely and with out need to seek payment. Within Church entities they may seek reimbursment for development costs through fees or through arrangment. 
 
-```markdown
-Syntax highlighted code block
+### eGiving Scope
+The eGiving Platform collects Tithes and offerings for Churches and entites of the Seventh-day Adventist Church through digital and online mechanisms. 
+The platform will:
+- offer Donation methods that are specific to countries that have opted in to the eGiving platform.
+- provide a receipt for any donations.
+- provide analytics and reporting of the donation to appropriate entities, including any tax requirements.
+- provide a secure environment for storing data and meet local PII and GDPR laws.
 
-# Header 1
-## Header 2
-### Header 3
+For specific features, see the feature list.
 
-- Bulleted
-- List
+#### Out of scope
+The eGiving Platform will specifically leave the following out of sope
+- the Recording of cash donations
+- accounting of funds (this will be the responsibility of the appropriate entites in an appropriate accounting package)
 
-1. Numbered
-2. List
+### Core Team
+The core team is made up by members of Church entities that have a formal MOU with the project, or by invitation from the core team for developers who make significant contribution to the project. Initially the Core team is amde up of
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AdventistTechnology/eGiving/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Core Team Memebers
+@bluephlame
+@jonthan
+@...
+@...
