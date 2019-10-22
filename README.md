@@ -18,7 +18,7 @@ The platform will:
 - provide analytics and reporting of the donation to appropriate entities, including any tax requirements.
 - provide a secure environment for storing data and meet local PII and GDPR laws.
 
-For specific feature roadmap, see the [feature list](features.md).
+For specific feature roadmap, see the [feature list](Features.md).
 
 #### Out of scope
 The eGiving Platform will specifically leave the following out of sope
