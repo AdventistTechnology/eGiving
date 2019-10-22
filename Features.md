@@ -1,6 +1,7 @@
 # Feature list
 The project is initially in three stages, outlined below.  
 ## Stage 1 - Fiji Minimum Viable Product (February 2020)
+
 |Feature | Ticket | Progress|
 |--------|--------|---------|
 |Entities and Church List | |
@@ -15,6 +16,7 @@ The project is initially in three stages, outlined below.
 |Internationalisation/ resource Strings | |
 |Site analytics | |
 ## Stage 2 - EU Mobile App and Website (April 2020)
+
 Feature | Ticket | Progress
 --------|--------|----------
 Refunds (Stripe) | |
@@ -28,6 +30,7 @@ EU Tax requirments? | |
 Translate App | |
 Accounting/Reporting API | |
 ## Stage 3 - AU/NZ site replacement(July 2020)
+
 Feature | Ticket | Progress
 --------|--------|---------
 Admin Site - Roles | |
@@ -39,6 +42,7 @@ Refunds (BPay) | |
 AU Tax Requirements | |
 NZ Tax Requirements | |
 Legacy T&O integration and migration | |
+
 ## Post MVP Features
 * Church report
 ## Features that will not be implemented
