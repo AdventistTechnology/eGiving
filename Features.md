@@ -15,6 +15,7 @@ The project is initially in three stages, outlined below.
 |FJ Tax Requirements | |
 |Internationalisation/ resource Strings | |
 |Site analytics | |
+
 ## Stage 2 - EU Mobile App and Website (April 2020)
 
 Feature | Ticket | Progress
@@ -29,6 +30,7 @@ Admin Site - Manage Offerings/Fund Accounts | |
 EU Tax requirments? | |
 Translate App | |
 Accounting/Reporting API | |
+
 ## Stage 3 - AU/NZ site replacement(July 2020)
 
 Feature | Ticket | Progress
