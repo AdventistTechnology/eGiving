@@ -40,4 +40,5 @@ AU Tax Requirements | |
 NZ Tax Requirements | |
 Legacy T&O integration and migration | |
 ## Post MVP Features
+* Church report
 ## Features that will not be implemented
