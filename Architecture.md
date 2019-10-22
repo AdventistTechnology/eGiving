@@ -1,4 +1,4 @@
-# eGiving System Architecture
+# System Architecture
 
 ## Deployment
 * Azure DevOps
