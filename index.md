@@ -1,10 +1,3 @@
-
----
-layout: default
-title: Collaboration
-nav_order: 1
----
-
 ## eGiving Collaboration
 eGiving has the potential to be a global tool for the purpose of collecting tithes nd offerigns from mebers of the Seventh-day Adventiust church.  This document describes how various church entities can partner with this project to create a centralised giving platform.
 
