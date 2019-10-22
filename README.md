@@ -23,6 +23,16 @@ The eGiving Platform will specifically leave the following out of sope
 - the Recording of cash donations
 - accounting of funds (this will be the responsibility of the appropriate entites in an appropriate accounting package)
 
+### eGiving Components
+the eGiving Platform is made up of three components
+1. The API and datastore - This is the serverside component that stores and manges donors and donations
+2. The eGiving Website - A multilingual, location aware site 
+3. The eGiving Mobile App - A multilingual, location aware app for android and iOS.
+
+## Participating Entities
+* South Pacific Division (Australian Union Conference, New Zealand Pacific Union Conference, Trans Pacific Union Mission)
+* Inter-European Division
+
 ### Core Team
 The core team is made up by members of Church entities that have a formal MOU with the project, or by invitation from the core team for developers who make significant contribution to the project. Initially the Core team is amde up of
 
