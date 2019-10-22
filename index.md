@@ -1,9 +1,8 @@
----
 
+---
 layout: default
 title: Collaboration
 nav_order: 1
-
 ---
 
 ## eGiving Collaboration
