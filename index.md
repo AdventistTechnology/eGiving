@@ -31,7 +31,7 @@ the eGiving Platform is made up of three components
 2. The eGiving Website - A multilingual, location aware site 
 3. The eGiving Mobile App - A multilingual, location aware app for android and iOS.
 
-for more detailed see the [architecture](architecture.md)
+for more detailed see the [architecture](Architecture.md)
 
 ## Participating Entities
 * South Pacific Division (Australian Union Conference, New Zealand Pacific Union Conference, Trans Pacific Union Mission)
