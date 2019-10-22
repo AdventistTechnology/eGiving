@@ -3,17 +3,17 @@ The project is initially in three stages, outlined below.
 ## Stage 1 - Fiji Minimum Viable Product (February 2020)
 Feature | Ticket | Progress
 --------|--------|---------
-Entities and Church List | |
-Basic Fund Accounts (Tithe, an Offering, a Project) | |
-Digicel Payment Method | |
-Basic Reporting | |
-Profiles and Login | |
-Cookies/GDPR | |
-Receipts (SMS) | |
-Receipts (email) | |
-FJ Tax Requirements | |
-Internationalisation/ resource Strings | |
-Site analytics | |
+|Entities and Church List | |
+|Basic Fund Accounts (Tithe, an Offering, a Project) | |
+|Digicel Payment Method | |
+|Basic Reporting | |
+|Profiles and Login | |
+|Cookies/GDPR | |
+|Receipts (SMS) | |
+|Receipts (email) | |
+|FJ Tax Requirements | |
+|Internationalisation/ resource Strings | |
+|Site analytics | |
 ## Stage 2 - EU Mobile App and Website (April 2020)
 Feature | Ticket | Progress
 --------|--------|----------
