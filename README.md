@@ -1,6 +1,8 @@
 ## eGiving Collaboration
 eGiving has the potential to be a global tool for the purpose of collecting tithes nd offerigns from mebers of the Seventh-day Adventiust church.  This document describes how various church entities can partner with this project to create a centralised giving platform.
 
+This site describes the eGiving Project.  For help with the app or mobile site, please see the [knowledge base](https://kb.myadventist.org/display/EGIV/eGiving) 
+
 ### Open Source
 The source code will be developed in partnership, using an open source model.  Participants will be able to add features and assist with architectural changes based on discussion and consultation with the core team making final decisions. The source code is stored in a public GitHub Repository and is essentially open source.  Pull request will be accepted after review by the Core Team and will be subject to the review process outlined below.
 
