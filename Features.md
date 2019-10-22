@@ -1,8 +1,8 @@
 # Feature list
 The project is initially in three stages, outlined below.  
 ## Stage 1 - Fiji Minimum Viable Product (February 2020)
-Feature | Ticket | Progress
---------|--------|---------
+|Feature | Ticket | Progress|
+|--------|--------|---------|
 |Entities and Church List | |
 |Basic Fund Accounts (Tithe, an Offering, a Project) | |
 |Digicel Payment Method | |
